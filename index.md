@@ -5,7 +5,7 @@
 ### Portfolio
 
 [Project 1: Analysis of My Runkeeper Fitness Data](https://github.com/lam771994/Analysis-of-My-Runkeeper-Fitness-Data)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src=""/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
