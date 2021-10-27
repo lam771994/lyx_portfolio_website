@@ -1,10 +1,10 @@
-## Portfolio
+## My Data Science Journey
 
 ---
 
-### Category Name 1 
+### Portfolio
 
-[Project 1 Title](/sample_page)
+[Project 1: Analysis of My Runkeeper Fitness Data](https://github.com/lam771994/Analysis-of-My-Runkeeper-Fitness-Data)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### List of Projects
 
-- [Project 1 Title](http://example.com/)
+- [Project 1: Analysis of My Runkeeper Fitness Data](https://github.com/lam771994/Analysis-of-My-Runkeeper-Fitness-Data)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
