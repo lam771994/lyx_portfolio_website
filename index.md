@@ -29,10 +29,8 @@
 
 ### Publications
 
-1. 
+1. Analytics in Human Trafficking: A Review - 5th Global Conference on Computing and Media Technology (GCMT 2021)
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
