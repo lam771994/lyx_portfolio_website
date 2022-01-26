@@ -58,6 +58,14 @@
 
 Analytics in Human Trafficking: A Review - 5th Global Conference on Computing and Media Technology (Accepted by GCMT 2021)
 
+[How Does AI Tackle Mental Health? (Featured in Humanitarian Affairs Asia's Newsletter)](https://www.linkedin.com/pulse/how-does-ai-tackle-mental-health-lam-ying-xian-蓝颖娴/)
 
+[What is Data Science? (Featured in Humanitarian Affairs Asia's Newsletter & LinkedIn)](https://www.linkedin.com/pulse/what-data-science-lam-ying-xian-%25E8%2593%259D%25E9%25A2%2596%25E5%25A8%25B4/)
+
+[How Does Data Science Play an Important Role in Social Change? (Featured in Humanitarian Affairs Asia's Newsletter & LinkedIn)](https://www.linkedin.com/pulse/how-does-data-science-play-important-role-social-lam-ying-xian-%25E8%2593%259D%25E9%25A2%2596%25E5%25A8%25B4/)
+
+[The role of data science in improving environmental issues (Featured in Humanitarian Affairs Asia's Newsletter & LinkedIn)](https://www.linkedin.com/pulse/role-data-science-improving-environmental-issues-lam-ying-xian-%25E8%2593%259D%25E9%25A2%2596%25E5%25A8%25B4/)
+
+[Why Should NGOs Use Data Science in the New Era? (Featured in Humanitarian Affairs Asia's Newsletter & LinkedIn)](https://www.linkedin.com/pulse/why-should-ngos-use-data-science-new-era-lam-ying-xian-%25E8%2593%259D%25E9%25A2%2596%25E5%25A8%25B4/)
 
 ---
