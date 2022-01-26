@@ -48,9 +48,9 @@
 
 ### Publications
 
-[1. Application of Cloud Computing for the Development of Big Data - IEEE Xplore (Published)](https://ieeexplore.ieee.org/document/9655929)
+[Application of Cloud Computing for the Development of Big Data - IEEE Xplore (Published)](https://ieeexplore.ieee.org/document/9655929)
 
-[2. Analytics in Human Trafficking: A Review - 5th Global Conference on Computing and Media Technology (Accepted by GCMT 2021)]
+Analytics in Human Trafficking: A Review - 5th Global Conference on Computing and Media Technology (Accepted by GCMT 2021)
 
 
 
