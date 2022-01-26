@@ -4,16 +4,18 @@
 
 ### Portfolio
 
-[Project 1: Analysis of My Runkeeper Fitness Data](https://github.com/lam771994/Analysis-of-My-Runkeeper-Fitness-Data)
-<img src="images/Project_1.png"/>
+[Project 1: Bike-Sharing Demand Prediction](https://github.com/lam771994/Bike-Sharing_Demand_Prediction)
+<img src="images/stephane-mingot-e8msPzLTXxU-unsplash.png"/>
+
+Photo by Stéphane Mingot on Unsplash
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3: Analysis of My Runkeeper Fitness Data](https://github.com/lam771994/Analysis-of-My-Runkeeper-Fitness-Data)
+<img src="images/Project_1.png"/>
 
 ---
 
