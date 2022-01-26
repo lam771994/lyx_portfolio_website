@@ -46,6 +46,12 @@
 
 ---
 
+[Project 8: E-Bookstore Database](https://github.com/lam771994/E-Bookstore_Database)
+
+(SQL)
+
+---
+
 ### Publications
 
 [Application of Cloud Computing for the Development of Big Data - IEEE Xplore (Published)](https://ieeexplore.ieee.org/document/9655929)
