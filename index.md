@@ -16,41 +16,42 @@
 
 ---
 
-[Project 3: SMEs Loan Approval Prediction](https://github.com/lam771994/SMEs_Loan_Approval_Prediction)
+[Project 3: Online Banking System](https://github.com/lam771994/Online_Banking_System)
 
-(SAS) (Machine Learning)
+(Python)
 
 ---
 
-[Project 4: Detection of Labour Trafficking from Online Job Advertisements](https://github.com/lam771994/-NLP-Detection_of_Labour_Trafficking_From_Online_Job_Advertisements)
+[Project 4: E-Bookstore Database](https://github.com/lam771994/E-Bookstore_Database)
+
+(SQL)
+
+---
+
+[Project 5: Detection of Labour Trafficking from Online Job Advertisements](https://github.com/lam771994/-NLP-Detection_of_Labour_Trafficking_From_Online_Job_Advertisements)
 
 (Python) (Machine Learning) (Natural Language Processing) (Web Scrapping)
 
 ---
 
-[Project 5: Analysis of My Runkeeper Fitness Data](https://github.com/lam771994/Analysis-of-My-Runkeeper-Fitness-Data)
+[Project 6: Analysis of My Runkeeper Fitness Data](https://github.com/lam771994/Analysis-of-My-Runkeeper-Fitness-Data)
 
 (Python)
 
 ---
 
-[Project 6: E-Commerce Sales Performance Prediction](https://github.com/lam771994/E-Commerce_Sales_Performance_Prediction)
+[Project 7: E-Commerce Sales Performance Prediction](https://github.com/lam771994/E-Commerce_Sales_Performance_Prediction)
 
 (SAS Enterprise Miner) (Tableau)
 
 ---
 
-[Project 7: Online Banking System](https://github.com/lam771994/Online_Banking_System)
+[Project 8: SMEs Loan Approval Prediction](https://github.com/lam771994/SMEs_Loan_Approval_Prediction)
 
-(Python)
-
----
-
-[Project 8: E-Bookstore Database](https://github.com/lam771994/E-Bookstore_Database)
-
-(SQL)
+(SAS) (Machine Learning)
 
 ---
+
 
 ### Publications
 
