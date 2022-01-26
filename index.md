@@ -40,6 +40,12 @@
 
 ---
 
+[Project 7: Online Banking System](https://github.com/lam771994/Online_Banking_System)
+
+(Python)
+
+---
+
 ### Publications
 
 [1. Application of Cloud Computing for the Development of Big Data - IEEE Xplore (Published)](https://ieeexplore.ieee.org/document/9655929)
