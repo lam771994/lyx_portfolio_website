@@ -5,7 +5,7 @@
 ### Portfolio
 
 [Project 1: Bike-Sharing Demand Prediction](https://github.com/lam771994/Bike-Sharing_Demand_Prediction)
-<img src="images/stephane-mingot-e8msPzLTXxU-unsplash.png"/>
+![alt text](https://github.com/lam771994/lyx_portfolio_website/blob/master/images/stephane-mingot-e8msPzLTXxU-unsplash.jpg)
 
 Photo by Stéphane Mingot on Unsplash
 
