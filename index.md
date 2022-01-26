@@ -36,7 +36,7 @@
 
 [Project 6: E-Commerce Sales Performance Prediction](https://github.com/lam771994/E-Commerce_Sales_Performance_Prediction)
 
-(SAS Enterprice Miner) (Tableau)
+(SAS Enterprise Miner) (Tableau)
 
 ---
 
