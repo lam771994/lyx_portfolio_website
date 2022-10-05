@@ -57,7 +57,7 @@
 
 [Application of Cloud Computing for the Development of Big Data - IEEE Xplore (Published)](https://ieeexplore.ieee.org/document/9655929)
 
-Analytics in Human Trafficking: A Review - 5th Global Conference on Computing and Media Technology (Accepted by GCMT 2021)
+[Human Trafficking Through Data Sharing and Analytics - IEEE Xplore]([(https://www.linkedin.com/pulse/how-does-ai-tackle-mental-health-lam-ying-xian-蓝颖娴/](https://ieeexplore.ieee.org/document/9793090)
 
 [How Does AI Tackle Mental Health? (Featured in Humanitarian Affairs Asia's Newsletter & LinkedIn)](https://www.linkedin.com/pulse/how-does-ai-tackle-mental-health-lam-ying-xian-蓝颖娴/)
 
